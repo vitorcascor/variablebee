@@ -8,21 +8,19 @@ Sou desenvolvedor full-stack com paixão por criar aplicações modernas, segura
 
 ### Linguagens & Frameworks
 - 🐍 **Python** (Django, APIs REST)
-- ⚛️ **JavaScript / React.js** (Interfaces dinâmicas e responsivas)
+- ⚛️ **JavaScript / React.js** 
 - 🌐 **HTML5 & CSS3**
 
 ### Banco de Dados
-- 🐘 **PostgreSQL** (modelagem e integração)
+- 🐘 **PostgreSQL** 
 
 ### DevOps & Infraestrutura
-- 🐳 **Docker** (containerização de aplicações)
-- ☸️ **Kubernetes** (conceitos básicos e orquestração)
+- 🐳 **Docker** 
+- ☸️ **Kubernetes**
 
 ### Frontend & Visualização
-- 📍 **Leaflet.js** (mapas interativos)
-- 🎨 **CSS frameworks** (TailwindCSS e outros)
+- 🎨 **CSS frameworks** 
 
 ### Sistemas & Segurança
-- 🐧 **Linux (Fedora)** & **FreeBSD** (administração e configuração)
+- 🐧 **Linux (Fedora)**
 - 🔐 Fundamentos de **Redes** e **Cibersegurança**
-- 🤖 **Automação com ChatGPT e integração WhatsApp API**
